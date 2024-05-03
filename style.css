@@ -1,0 +1,38 @@
+/* Style open and close buttons */
+.accordion {
+    background-color: #eee;
+    color: #444;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    text-align: left;
+    border: none;
+    outline: none;
+    transition: 0.4s;
+    margin-bottom: 10px;
+    border: none;
+}
+
+
+/* Style the accordion panel (hidden by default) */
+.panel {
+    padding: 0 20px;
+    background-color: white;
+    display: none;
+    overflow: hidden;
+}
+
+.items_price button.accordion::after {
+    content: '+'; /* Or Unicode sign (+) \02795*/
+    font-size: 20px;
+    font-weight: 800;
+    color: #c42d32;
+    float: right;
+    margin-left: 5px;
+    display: inline-block;
+}
+
+.items_price button.active::after {
+    content: "-"; /* Or Unicode sign (-) \2796 */
+    color: #1b2040 !important;
+}
