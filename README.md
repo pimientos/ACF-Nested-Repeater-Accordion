@@ -1,4 +1,4 @@
-# ACF-accorion-with-repeater-fields
+# ACF-Nested-Repeater-Accordion
 <h2>ACF Accordion Shortcode EN</h2>
 This shortcode enables you to seamlessly integrate an accordion into your WordPress pages or posts using data from ACF repeater fields. The accordion is perfect for displaying pricing or other product/service details in a structured, user-friendly manner.
 
