@@ -48,8 +48,9 @@ The accordion comes with basic styling, but you can easily customize it to fit y
 <h3>JavaScript</h3>
 The accordion functionality is supported by JavaScript, which includes an animation effect for the accordion tabs. The script is defined in the <b>activate_price_accordion</b> function and is added via the <b>wp_enqueue_scripts</b> hook.
 
-### License
-This project is open-source and available under the MIT License.
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
 
 <h2>ACF Accordion UA</h2>
@@ -98,8 +99,8 @@ This project is open-source and available under the MIT License.
 <h3>Стилізація</h3>
 Акордеон має базову стилізацію, але ви можете легко налаштувати його під дизайн вашого сайту. Ви можете додати додаткові CSS правила у ваш файл стилів теми для кастомізації зовнішнього вигляду акордеону.
 
-### Ліцензія
-Цей проект має відкритий вихідний код і доступний за ліцензією MIT.
-
 <h3>JavaScript</h3>
 Функціональність акордеону підтримується JavaScript, який включає в себе додавання анімаційного ефекту для вкладок акордеону. Скрипт визначений у <b>activate_price_accordion</b> функції і додається через хук <b>wp_enqueue_scripts</b>.
+
+### Ліцензія
+Цей проект має відкритий вихідний код і доступний за ліцензією MIT [LICENSE](./LICENSE).
